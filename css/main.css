@@ -1,0 +1,22 @@
+body{
+    background-color: pink;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img{
+    max-width: 100%;
+    position: calc(30);
+}
+
+h1{
+    color: brown;
+    font-size: 4rem;
+}
+
+p{
+    align-items: baseline;
+}
+
+p{
+    color: indigo;
+}
